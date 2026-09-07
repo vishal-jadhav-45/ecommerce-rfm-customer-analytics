@@ -56,6 +56,12 @@ An online retailer wants to understand **which customers are most valuable, whic
 
 Python · Pandas · NumPy · Matplotlib · Seaborn · Data Cleaning · RFM Analysis · Customer Segmentation · Cohort Analysis · Power BI · DAX · Data Visualization · Business Analytics
 
+## Power BI Dashboard Screenshots
+[Sales Overview]<img width="1320" height="742" alt="Screenshot 2026-09-08 000618" src="https://github.com/user-attachments/assets/5fcd3140-4dcd-4dd0-ac63-8639db46c5d3" />
+[Customer Segmentation]<img width="1325" height="738" alt="Screenshot 2026-09-08 000639" src="https://github.com/user-attachments/assets/04c33911-a137-4a6c-b164-9b076b1df289" />
+[Geographic Analysis]<img width="1320" height="751" alt="image" src="https://github.com/user-attachments/assets/3173accf-fa0f-4f90-aceb-9e74d43491c4" />
+
+
 ## How to Run
 
 1. Download `online_retail.csv` from the [UCI dataset link](https://www.kaggle.com/datasets/luisrenterialezano/retail-sales-dataset) and place it alongside the notebook.
